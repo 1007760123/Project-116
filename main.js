@@ -3,7 +3,7 @@ noseY=0;
 
 function preload()
 {
-    mustache = loadImage('https://img2.pngio.com/mustache-png-transparent-cartoon-free-cliparts-silhouettes-cartoon-mustache-png-920_344.png')
+    mustache = loadImage('https://i.postimg.cc/3x3QzSGq/m.png')
 }
 
 function setup()
